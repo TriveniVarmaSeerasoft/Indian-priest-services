@@ -1,0 +1,391 @@
+[
+  {
+    "pristID": 1,
+    "userTypeID" : "prist",
+    "firstName": "Krishna",
+    "middleName": "",
+    "lastName": "Murthy",
+    "email": "krishnamurthy@gmail.com",
+    "phoneNumber": "630085200",
+    "img" : "https://indianbusinesscanada.com/admin/uploads/2019/02/07/south-indian-telugu-hyderabad-hindu-priest-16099-1-118.jpeg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Bharath nagar colony",
+      "city": "Hyderbad",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "5"
+  },
+  
+  {
+    "pristID": 2,
+    "userTypeID" : "prist",
+    "firstName": "Tarachand",
+    "middleName": "",
+    "lastName": "Joshi",
+    "email": "TarachandJoshi@gmail.com",
+    "phoneNumber": "630085200",
+    "img" : "https://as1.ftcdn.net/v2/jpg/03/58/29/78/1000_F_358297815_aVTd84sy1qPEgBIxH8nxJzH23vmEqFpG.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Peerancheruvu",
+      "city": "Hyderabad",
+      "pincode": "500015",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "4"
+  },
+
+  {
+    "pristID": 3,
+    "userTypeID" : "prist",
+    "firstName": "Ramana",
+    "middleName": "",
+    "lastName": "Murthy",
+    "email": "Ramanamurthy@gmail.com",
+    "phoneNumber": "730085200",
+    "img" : "https://thumbs.dreamstime.com/b/hindu-old-sadhu-meditating-isolated-religious-way-called-dhyana-148720666.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Road No : 55, Jublihills",
+      "city": "Hyderbad",
+      "pincode": "500098",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "4"
+  },
+  
+  {
+    "pristID": 4,
+    "userTypeID" : "prist",
+    "firstName": "purusothama",
+    "middleName": "",
+    "lastName": "Charya",
+    "email": "purusothamaCharya@gmail.com",
+    "phoneNumber": "630054520",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsITcQ04Dopn0jKCzB0lg0g0xrMM_ul4bq3A&usqp=CAU",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Indrakeeladri",
+      "city": "Vijayawada",
+      "pincode": "520001",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "5"
+  },
+  
+  {
+    "pristID": 5,
+    "userTypeID" : "prist",
+    "firstName": "yogi",
+    "middleName": "",
+    "lastName": "Murthy",
+    "email": "yogiMurthy@gmail.com",
+    "phoneNumber": "830085200",
+    "img" : "https://i.pinimg.com/736x/85/0f/d7/850fd75cbddd148164680da00ebacd9c.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Srisailam",
+      "city": "Andhra Pradesh India",
+      "pincode": "510018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "3"
+  },
+  
+  {
+    "pristID": 6,
+    "userTypeID" : "prist",
+    "firstName": "prem",
+    "middleName": "kishore",
+    "lastName": "vikkirala",
+    "email": "premkishorevikkirala@gmail.com",
+    "phoneNumber": "630085200",
+    "img" : "https://image.shutterstock.com/image-photo/jain-priest-welcoming-saluting-jaisalmer-260nw-35360233.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "yousufguda",
+      "city": "Hyderbad",
+      "pincode": "500045",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "4"
+  },
+  
+  {
+    "pristID": 7,
+    "userTypeID" : "prist",
+    "firstName": "Sundar",
+    "middleName": "",
+    "lastName": "Natarajan",
+    "email": "SundarNatarajan@gmail.com",
+    "phoneNumber": "780085200",
+    "img" : "https://www.creativehatti.com/wp-content/uploads/2021/08/Indian-pandit-is-holding-a-brass-Kamandal-in-hand-15-small.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Vemulawada nagar colony",
+      "city": "Rajanna Siricilla Dist.telangana",
+      "pincode": "503302",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "4"
+  },
+  
+  {
+    "pristID": 8,
+    "userTypeID" : "prist",
+    "firstName": "C.V raman",
+    "middleName": "",
+    "lastName": "Murthy",
+    "email": "C.V raman @gmail.com",
+    "phoneNumber": "6500257341",
+    "img" : "https://st2.depositphotos.com/1037178/7669/v/600/depositphotos_76697615-stock-illustration-tulsidas-indian-saint-writer-of.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Shivaji Nagar",
+      "city": " Secenderabad",
+      "pincode": "500003",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "5"
+  },
+  
+  {
+    "pristID": 9,
+    "userTypeID" : "prist",
+    "firstName": "Murthy",
+    "middleName": "",
+    "lastName": "Pandhita",
+    "email": "murthyPandhita@gmail.com",
+    "phoneNumber": "950029805",
+    "img" : "https://image.shutterstock.com/image-vector/cute-looking-south-indian-pandit-260nw-1290454330.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "BadraChalam",
+      "city": "khammam",
+      "pincode": "507111",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "5"
+  },
+  
+  {
+    "pristID": 10,
+    "userTypeID" : "prist",
+    "firstName": "Krishna",
+    "middleName": "paramesh",
+    "lastName": "Murthy",
+    "email": "krishnaparameshmurthy@gmail.com",
+    "phoneNumber": "7382940302",
+    "img" : "https://cdni.iconscout.com/illustration/premium/thumb/tenali-ramakrishna-is-showing-thumb-up-3217443-2690053.png",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "K.T. Road Tirupati",
+      "city": "Gadwal district",
+      "pincode": "509152",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "services": {
+      "Satyanarayana Swami Vratham " : "$91.00",
+      "Grihapravesh Puja" : "$151.00",
+      "Ganapathi Puja " : "$91.00",
+      "Naamakaranam" : "$91.00",
+      "Lakshmi puja" : "$91.00",
+      "Seemantham" : "$91.00",
+      "Ayusha Homam" : "$91.00",
+      "Punya Vachanam " : "$91.00",
+      "Sudarhana Homam " : "$91.00",
+      "Varalakshmi Vratham " : "$91.00",
+      "Upanayanam " : "$91.00"
+    },
+    "rating" : "4"
+  }
+]

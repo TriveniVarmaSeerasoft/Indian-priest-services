@@ -1,0 +1,269 @@
+[
+  {
+    "userID": 1,
+    "userTypeID" : "USER",
+    "firstName": "Yashwanth",
+    "middleName": "simha",
+    "lastName": "Godugu",
+    "email": "ygodugu.seerasoft@gmail.com",
+    "password" : "!@#$*&^%%ghujfmjumij7t6r8tjrfu7",
+    "phoneNumber": "8074141011",
+    "img" : "https://image.shutterstock.com/image-vector/man-character-face-avatar-glasses-260nw-562077406.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Bharath nagar colony",
+      "city": "Hyderbad",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 2,
+    "userTypeID" : "USER",
+    "firstName": "Girish",
+    "middleName": "",
+    "lastName": "donthoju",
+    "email": "girish_donthoju@seerasoft.com",
+    "password" : "!@#$*kljqdkjkqsdjkdkldkoj",
+    "phoneNumber": "9515117270",
+    "img" : "https://cdn2.vectorstock.com/i/1000x1000/49/86/man-character-face-avatar-in-glasses-vector-17074986.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "colony",
+      "city": "Hyderbad",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 3,
+    "userTypeID" : "USER",
+    "firstName": "sri",
+    "middleName": "vamshi",
+    "lastName": "",
+    "email": "ygodugu.seerasoft@gmail.com",
+    "password" : "!@#$*&^%%123e123asxasxghuj",
+    "phoneNumber": "8074141011",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNJCji8ml3wIGrTc_JuFQd3o_TYeJFiA21T0_GGF4pj0K3TiBRwUpV9oSUZ6bWgLx1Hc&usqp=CAU",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "northeastern Andhra",
+      "city": "Vishakhapatnam",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 4,
+    "userTypeID" : "USER",
+    "firstName": "Santhosh",
+    "middleName": "",
+    "lastName": "chokkapu",
+    "email": "schokkapu.seerasoft1@gmail.com",
+    "password" : "!@#$qedqd13213*&^%%ghuj",
+    "phoneNumber": "8500257374",
+    "img" : "https://image.shutterstock.com/image-vector/man-character-face-avatar-glasses-260nw-562077406.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "northeastern Andhra",
+      "city": "Visakhapatnam",
+      "pincode": "500020",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 5,
+    "userTypeID" : "USER",
+    "firstName": "Triveni",
+    "lastName": "",
+    "middleName": "varma",
+    "email": "tvarma.seerasoft@gmail.com",
+    "password" : "!@#$*&qweqwexasd323r23^%%ghuj",
+    "phoneNumber": "9500257374",
+    "img" : "https://cdn3.vectorstock.com/i/1000x1000/26/07/girl-icon-woman-avatar-face-icon-cartoon-style-vector-24742607.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": " Kukatpally",
+      "city": "Hyderbad",
+      "pincode": "500072",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 6,
+    "userTypeID" : "USER",
+    "firstName": " Revanth",
+    "lastName": "simha",
+    "middleName": "Godugu",
+    "email": "ygodugu.seerasoft@gmail.com",
+    "password" : "!@#$*&^%%qdqwdd12323213ghuj",
+    "phoneNumber": "8340898318",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoS96_vETK55r95MRsFeB2f7T3S6W6UCsElsdeeOwljS2Ugdwyfo8w4FLzrmFF6VpdkUk&usqp=CAU",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Bharath nagar colony",
+      "city": "Hyderbad",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+  {
+    "userID": 7,
+    "userTypeID" : "USER",
+    "firstName": "Pavani ",
+    "middleName": "",
+    "lastName": "Duvvuri",
+    "email": "pduvvuri.seerasoft@gmail.com",
+    "password" : "!@#$adsasd23334*&^%%ghuj",
+    "phoneNumber": "8074141011",
+    "img" : "https://thumbs.dreamstime.com/b/young-woman-avatar-cartoon-character-profile-picture-young-brunette-woman-short-hair-avatar-cartoon-character-vector-149728784.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "northeastern Andhra",
+      "city": "Visakhapatnam",
+      "pincode": "500020",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 8,
+    "userTypeID" : "USER",
+    "firstName": " APPALANAIDU",
+    "middleName": "",
+    "lastName": "GULLIPALLI",
+    "email": "agullipalli.seerasoft@gmail.com",
+    "password" : "!@#$*&^%%ghu1233223424dfvbffaj",
+    "phoneNumber": "6500257374",
+    "img" : "https://www.shareicon.net/data/512x512/2016/08/05/806962_user_512x512.png",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "northeastern Andhra",
+      "city": "Visakhapatnam",
+      "pincode": "500020",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 9,
+    "userTypeID" : "USER",
+    "firstName": "Prem",
+    "middleName": "kishore",
+    "lastName": "vikkirala",
+    "email": "Premkishore@gmailvikkirala.com",
+    "password" : "!@#$*&^hbfr5689e3%%ghuj",
+    "phoneNumber": "9030690690",
+    "img" : "https://cdn5.vectorstock.com/i/1000x1000/60/99/elegant-businessman-avatar-character-vector-15446099.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Bharath nagar colony",
+      "city": "Hyderbad",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+
+
+  {
+    "userID": 10,
+    "userTypeID" : "USER",
+    "firstName": "Samantha",
+    "middleName": "",
+    "lastName": "Clementine Bauch",
+    "email": "Nathan@yesenia.net",
+    "password" : "!23234@#$*sd&^%%ghuj",
+    "phoneNumber": "9050808808",
+    "img" : "https://thumbs.dreamstime.com/b/african-american-man-male-avatar-icon-flat-style-male-user-icon-cartoon-vector-stock-91462825.jpg",
+    "languages" : {
+        "speak" : "telugu",
+        "write" : "Hindi",
+        "language" : "tamil"
+    },
+    "address": {
+      "street": "Moosapet",
+      "city": "Hyderbad",
+      "pincode": "500018",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "TempleID": 1,
+    "userTypeID" : "temple",
+    "templeName" : "Tirumala Tirupati Devasthanams",
+    "email": "Tirumala Tirupati Devasthanams@gmail.com",
+    "phoneNumber": "040-455221145",
+    "templeImg" : "https://i0.wp.com/sakalam.org/wp-content/uploads/2022/07/TTD-Temple-Srivenkateswara-Jubileehills.jpg?ssl=1",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "http://www.tirumala.org/",
+    "address": {
+      "street": "K.T. Road Tirupati",
+      "city": "Andhra Pradesh India",
+      "pincode": "517 501",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "5"
+  },
+  
+  {
+    "TempleID": 2,
+    "userTypeID" : "temple",
+    "templeName" : "SRI LAKSHMI NARASIMHA SWAMY VARI DEVASTHANAM",
+    "email": "SRI LAKSHMI NARASIMHA SWAMY VARI DEVASTHANAM@gmail.com",
+    "phoneNumber": "040-85213457",
+    "templeImg" : "https://yadadritemple.telangana.gov.in/files/20210612192240LNL3128.JPG",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://yadadritemple.telangana.gov.in/fdevelopment/",
+    "address": {
+      "street": "Yadagirigutta",
+      "city": "bhuvnagari",
+      "pincode": "508 115",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "4"
+  },
+  
+  {
+    "TempleID": 3,
+    "userTypeID" : "temple",
+    "templeName" : "alampur jogulamba",
+    "email": "` alampurjogulamba@gmail.com",
+    "phoneNumber": "0850-241327",
+    "templeImg" : "https://templeconnect.com/wp-content/uploads/2022/02/Jogulamba-Shaktipeeth.jpg",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://endowments.ts.nic.in/docs/Jogulamba_Krishna-Pushkaramlu.pdf",
+    "address": {
+      "street": "K.T. Road Tirupati",
+      "city": "Gadwal district",
+      "pincode": "509152",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "3"
+  },
+
+  {
+    "TempleID": 4,
+    "userTypeID" : "temple",
+    "templeName" : "Sri Seetharama Chandra Swamy Devasthanam Bhadrachalam",
+    "email": "SriSeetharamaChandraSwamyDevasthanamBhadrachalam@gmail.com",
+    "phoneNumber": "040-236525",
+    "templeImg" : "https://endowments.ts.nic.in/images/b2.jpg",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://endowments.ts.nic.in/khammam.html",
+    "address": {
+      "street": "BadraChalam",
+      "city": "khammam",
+      "pincode": "507111",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "5"
+  },
+  
+  {
+    "TempleID": 5,
+    "userTypeID" : "temple",
+    "templeName" : "SRI GANESH TEMPLE ",
+    "email": "SRI GANESH TEMPLE@gmail.com",
+    "phoneNumber": "040-08852222",
+    "templeImg" : "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8bjceipcteq92vqd25hi7n2gv4-20171219023803.Medi.jpeg",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://ganeshtemplesec.telangana.gov.in/Home/Index",
+    "address": {
+      "street": "Regimental Bazar Main Rd, Railway Officer Colony,",
+      "city": "egimental Bazaar, Shivaji Nagar, Secenderabad",
+      "pincode": "500003",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "3"
+  },
+  
+  
+  {
+    "TempleID": 6,
+    "userTypeID" : "temple",
+    "templeName" : "Sri Raja Rajeshwara Swamy temple",
+    "email": "eo_vemulawada@yahoo.co.in",
+    "phoneNumber": "040-45221545",
+    "templeImg" : "https://media-cdn.tripadvisor.com/media/photo-s/1a/15/26/c0/main-temple.jpg",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://www.vemulawadatemple.org/",
+    "address": {
+      "street": "Vemulawada,",
+      "city": "Rajanna Siricilla Dist.telangana",
+      "pincode": "505 302",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "4"
+  },
+  
+  {
+    "TempleID": 7,
+    "userTypeID" : "temple",
+    "templeName" : "Sri Bhramaramba Mallikarjuna Swamy Varla Devasthanam",
+    "email": "endow-eosri@gov.in",
+    "phoneNumber": "040-4589633",
+    "templeImg" : "https://www.srisailadevasthanam.org/static/media/SD-gallery-03.478a0f1b.png",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://www.srisailadevasthanam.org/en-in/home",
+    "address": {
+      "street": "Srisailam-Kurnool (Dist.)",
+      "city": "Andhra Pradesh India",
+      "pincode": "518101",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "4"
+  },
+  
+  {
+    "TempleID": 8,
+    "userTypeID" : "temple",
+    "templeName" : "Sri Durga Malleswara Swamy Varla Devasthanam,",
+    "email": "eo@kanakadurgamma.org",
+    "phoneNumber": "040-852369741",
+    "templeImg" : "https://kanakadurgamma.org/static/media/IMG-20220413-WA0018@2x.7f356c08.png",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://kanakadurgamma.org/en-in/home",
+    "address": {
+      "street": "Indrakeeladri, Kanakadurganagar, Mallikarjunapeta",
+      "city": "Vijayawada,  Andhra Pradesh ",
+      "pincode": "520001",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "3"
+  },
+  
+  {
+    "TempleID": 9,
+    "userTypeID" : "temple",
+    "templeName" : "Sri Peddamma Talli Temple",
+    "email": "info@peddammagudi.org",
+    "phoneNumber": "040-421365214",
+    "templeImg" : "https://lh3.googleusercontent.com/p/AF1QipMSJcR3LP8yODOrKNovxw-ugCbHF5ChG2w6pUwa=s1600-w2176",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "https://www.peddammagudi.org/",
+    "address": {
+      "street": "Road No : 55, Jublihills",
+      "city": "Hyderabad",
+      "pincode": "500033",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "5"
+  },
+
+  {
+    "TempleID": 10,
+    "userTypeID" : "temple",
+    "templeName" : "Kalimata Mandir | Aramaisamma Mandir",
+    "email": "Kalimata Mandir@gmail.com",
+    "phoneNumber": "040-85236524552",
+    "templeImg" : "https://assets.thehansindia.com/h-upload/2021/04/18/1071052-kali.webp",
+    "languages-1" : "telugu",
+    "languages-2" : "hindi",
+    "languages-3" : "tamil",
+    "website" : "Kalimata Mandir | Aramaisamma Mandir.org/",
+    "address": {
+      "street": "993G+3M5, Peerancheruvu",
+      "city": " Hyderabad, Telangana",
+      "pincode": "500086",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "rating" : "4"
+  }
+]
